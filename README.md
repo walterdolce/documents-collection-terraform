@@ -13,8 +13,7 @@ If you think a link to a resource which you consider important and/or useful is 
 
 - [Automating Terraform Projects with Jenkins](https://objectpartners.com/2016/06/01/automating-terraform-projects-with-jenkins/)
 - [How to escape ${var} in inline template files](https://groups.google.com/forum/#!msg/terraform-tool/_tXjlLbWOu8/33U5Y5KMBAAJ)
-
-
+- [How to prevent Terraform to enforce `desired_count` if an `application_auto_scaling` is defined for my ECS service](https://github.com/hashicorp/terraform/issues/10308#issuecomment-262591370)
 
 
 
